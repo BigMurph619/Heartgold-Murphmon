@@ -87,7 +87,7 @@ Download and apply the patch to your vanilla, legally obtained Heartgold ROM.
 
 RNQS download [rnqs File Found Here](https://github.com/BigMurph619/HGSS-Monomon/blob/main/HGSS%20Monomon%20Settings.rnqs)
 
-> RNQS: 321WRIEEgIkAQAAAACRAAKeBhsBCQEACQACCQAuEgAAAAAAzBCI5ATkQYYICTIGBQIyAAUgAMwQiAAAAAIVUG9rZW1vbiBIZWFydEdvbGQgKFUpil/LPOPDOIo=
+> RNQS: AxWRIEEgIkAQAAAACRAAKeBhsBCQEACQACCQAuEgAAAAAAzBCI5ATkQYgICTIGBQIyHwUYAMwQiAAAAAIVUG9rZW1vbiBIZWFydEdvbGQgKFUpEfuZfuPDOIo=
 
 You MUST use SomethingSmart's randomizer with this settings string: [Something Smart's Randomizer](https://github.com/something-smart/ironmon-randomizer)
 
