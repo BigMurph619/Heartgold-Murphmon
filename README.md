@@ -153,7 +153,7 @@ Good luck Challenger.
  - [BigMurph619](https://www.twitch.tv/bigmurph619) Creator of the [Murphverse](https://github.com/TakeJoshyy/TheMurphVerse/blob/6c1ba9d795d4b8aee9f45bc0d4940fa5363f7477/readme.md)
  - [iateyourpie](https://www.twitch.tv/iateyourpie) Inspired by Super Kaizo IronMON
  - [Something Smart](https://github.com/something-smart) For the Modified Randomizer
- - [UTDZac](https://github.com/UTDZac/Ironmon-Tracker) For the Ironmon Tracker
+ - [OnlySpaghettiCode](https://github.com/Brian0255/NDS-Ironmon-Tracker) For the NDS Ironmon Tracker
  - [kelseyyoung](https://kelseyyoung.github.io/HGSSIronmonMap/) HGSS Interactive Map
 
 ### [Top](#monomon-rules) | [Core Game Rules](#core-game-rules) | [Settings](#settings) | [HGSS Game Specific](#specific-game-rules)
