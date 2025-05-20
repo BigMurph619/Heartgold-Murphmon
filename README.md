@@ -101,10 +101,10 @@ Both Java and the IronMON Tracker by UTDZac are used for this challenge. [Java](
 |You are allowed to change to game's time for events that occur on specific days within the game or to change weather for the Red fight.|
 |You may only keep items obtained from Rock Smash if it is the first smash.|
 |You cannot defeat the Shiny Gyarados more than once. (respawns after E4) |
-|You may only fight trainers on your first visit to the lighthouse (you must speak to Jasmine or you will be soft locked). |
+|You may return to fight trainers in any building with your Bug Catching Pivot. (One round of fighting for pre-pivot and 1 for post pivot for the lighthouse) |
 |You may use Flash freely. |
 |Each building of the Radio Tower story sequence is treated separately. You can heal as you go from the tower to the basement, or basement back to the tower. You can fight trainers in the tower when you return later to finish the story. |
-|Double battles: You may use your HM friend freely in Doubles Fights |
+|Double battles: You may use your HM friend freely in Doubles Fights. |
 
 1. You may pick any mon you want in the lab that is 599 BST or lower except Mythicals and Legendaries. You may keep its held item. If you evolve into a Pokemon that is over 599 BST, you may use that Pokemon so long as it aligns with Ability rules.
 
@@ -123,7 +123,7 @@ Both Java and the IronMON Tracker by UTDZac are used for this challenge. [Java](
     - You may use Sketch multiple times if you receive the move in any other capacity.
     - Please note that there are 100% catch rates in Monomon, so throwing balls will not work to scout moves. You may use flutes so long as they don't impact the battle (i.e. wake up sleep, cure confuse, etc.) to scout moves for Sketch.
   
-5. BugsyBuddy Rule - You may bring 1 "Buddy" with you into Bugsy's gym. You may use this buddy freely to help you defeat the gym. The BugsyBuddy MUST be the first Pokemon you encounter in the patch of grass East of Azalea Town. If you fail to catch this Buddy, you may bring a second mon into the gym (it is needed for the doubles fight) but you may not use it for any advantage.
+5. BugsyBuddy Rule - You may bring 1 "Buddy" with you into Bugsy's gym. You may use this buddy freely to help you defeat the gym. The BugsyBuddy MUST be the first Pokemon you encounter in the patch of grass East of Azalea Town. If you fail to catch this Buddy, you may bring a second mon into the gym (it is needed for the doubles fight) but you may not use it for any advantage in non doubles fights (i.e. swapping in to heal).
 
 6. Bug Catching Contest Pivot:
   -You must pivot after defeating Morty and before fighting Chuck.
