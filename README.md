@@ -85,7 +85,7 @@ Heartgold Monomon utilizes the [Super Kaizo Patch](https://github.com/PyroMikeGi
 
 Download and apply the patch to your vanilla, legally obtained Heartgold ROM.
 
-RNQS download [rnqs File Found Here](https://github.com/BigMurph619/HGSS-Monomon/blob/main/HGSS%20Monomon%20Settings.rnqs)
+RNQS download [rnqs File Found Here](https://github.com/BigMurph619/Heartgold-Murphmon/blob/main/HGSS%20Murphmon%20Settings.rnqs)
 
 > RNQS: AxWRIEEgIkAQAAAACRAAKeBhsBCQEACQACCQAuEgAAAAAAzBCI5ATkQYgICTIGBQIyHwUYAMwQiAAAAAIVUG9rZW1vbiBIZWFydEdvbGQgKFUpEfuZfuPDOIo=
 
