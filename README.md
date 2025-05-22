@@ -17,7 +17,7 @@ No Shopping: **Except for any type of Pokeball or Repel.**
 
 All hidden items are allowed to be picked up. You can only use items that you pick up, find as a held item on Pokemon or are given by an NPC. NOTE: You may NOT pick berries off of trees.
 
-Select 4 “Favorites” prior to each run. These Pokemon are subject to the 555 BST or under rule.
+Select 4 “Favorites” prior to each run. These Pokemon are subject to the 599 BST or under rule.
 
 Stolen Items: You may not keep stolen items from wild pokemon with moves like Thief, Covet, etc.  
 **Stealing them from a trainer battle is fine.**
@@ -97,7 +97,7 @@ Both Java and the NDS IronMON Tracker by OnlySpaghettiCode are used for this cha
 
 |Notes|
 |-|
-|The Murphmon settings string elminates "bad berries".|
+|The Murphmon settings string eliminates "bad berries".|
 |You are allowed to change to game's time for events that occur on specific days within the game or to change weather for the Red fight.|
 |You may only keep items obtained from Rock Smash if it is the first smash.|
 |You cannot defeat the Shiny Gyarados more than once. (respawns after E4) |
@@ -113,7 +113,7 @@ Both Java and the NDS IronMON Tracker by OnlySpaghettiCode are used for this cha
 3. Pivoting:
     - You may catch up to 3 total unique mons from any area prior to Bellsprout Tower (they can be all from one area, all different, or a combination), pick which one you want to run between those 3 and bag mon. You may keep items held by these Pokemon. 
     - You must choose your pivot before entering Bellsprout Tower and Falkner's Gym. You may fight trainers freely prior. Once receiving exp from a wild Pokemon or entering Bellsprout Tower or Falkner's gym, you are locked in.
-    - You may receive EXP from 1 wild mon prior to fighting the Aqua Grunt but you MUST run the mon that received EXP and avoid receiving additional EXP from wilds at all costs. You may NOT catch any other Pokemon for their items or info after receving EXP from a wild.
+    - You may receive EXP from 1 wild mon prior to entering Bellsprout Tower but you MUST run the mon that received EXP and avoid receiving additional EXP from wilds at all costs. You may NOT catch any other Pokemon for their items or info after receving EXP from a wild.
     - You may use any Mon at the front of your party until you lock in your pivot.
     - You may catch 1 free favorite each. You may catch a second of the same favorite but it will count towards your 3 pivots. Getting a favorite in the lab grants you a 4th pivot option.
     - Banned ability mons don't count towards your catches UNLESS you want to keep its held item (This may only be done once. You may not farm multiple items off of the same illegal mon). You may catch until you find one without illegal ability (if there is one).
