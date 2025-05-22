@@ -91,7 +91,7 @@ RNQS download [rnqs File Found Here](https://github.com/BigMurph619/Heartgold-Mu
 
 You MUST use SomethingSmart's randomizer with this settings string: [Something Smart's Randomizer](https://github.com/something-smart/ironmon-randomizer)
 
-Both Java and the IronMON Tracker by UTDZac are used for this challenge. [Java](https://www.java.com/en/download/manual.jsp)
+Both Java and the NDS IronMON Tracker by OnlySpaghettiCode are used for this challenge. [Java](https://www.java.com/en/download/manual.jsp)
 
 # Specific Game Rules
 
