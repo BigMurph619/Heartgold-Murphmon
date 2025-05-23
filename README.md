@@ -4,7 +4,7 @@ IMPORTANT: Monomon and Murphmon are **UNOFFICIAL** ways of playing an IronMON-in
 
 Created by [BigMurph619](https://www.twitch.tv/bigmurph619)
 
-### [Core Game Rules](#Core-Games-Rules) | [Settings](#settings) | [HGSS Specifics Rules](#specific-game-rules) | [Credits](#Credits)
+### [Core Game Rules](#Core-Games-Rules) | [Settings](#settings) | [HGSS Specific Rules](#specific-game-rules) | [Credits](#Credits)
 
 # Core Game Rules
 
